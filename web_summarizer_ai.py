@@ -76,4 +76,4 @@ def display_summary(url):
     summary = summarize_website(url)
     display(Markdown(summary))
 
-display_summary("wesite url")
+display_summary("website url")
