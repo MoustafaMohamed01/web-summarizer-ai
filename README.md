@@ -118,4 +118,4 @@ Contributions are welcome! If you’d like to contribute, please follow these st
 - [Google AI Studio](https://makersuite.google.com/)
 - [LLM Engineering: Master AI, Large Language Models & Agents](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/?couponCode=KEEPLEARNING)
 - [Ollama](https://ollama.com/)
-- 
+
