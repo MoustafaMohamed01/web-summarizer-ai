@@ -37,10 +37,12 @@ This project provides an AI-powered website summarization tool that extracts and
 
 3. Set up your environment variables:
    - Create a `.env` file in the project root directory:
+     
      ```bash
      cp .env.example .env
      ```
    - Open the `.env` file and add your Gemini API key:
+     
      ```
      GEMINI_API_KEY=your_api_key_here
      ```
